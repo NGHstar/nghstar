@@ -2,9 +2,11 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 Fa
+
 سلام! من حسین محمدقاسمی هستم، یک توسعه‌دهنده فرانت‌اند با انگیزه و علاقه‌مند به یادگیری مداوم و کار تیمی. در حال حاضر تمرکز اصلی من روی یادگیری تخصصی React هست. همیشه سعی می‌کنم دانش فنی‌ام رو به‌روز نگه دارم و در پروژه‌ها از تکنولوژی‌های جدید استفاده کنم.
 
 En
+
 Hi! I'm Hosein Mohammadghasemi, a motivated front-end developer with a strong passion for continuous learning and teamwork. I'm currently focusing on gaining in-depth knowledge of React. I always strive to keep my technical skills up to date and use modern technologies in my projects.
 
 - 🌱 I’m currently learning **react, redux**
