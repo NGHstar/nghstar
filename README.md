@@ -9,7 +9,7 @@
 
 Hi! I'm Hosein Mohammadghasemi, a motivated front-end developer with a strong passion for continuous learning and teamwork. I'm currently focusing on gaining in-depth knowledge of React. I always strive to keep my technical skills up to date and use modern technologies in my projects.
 
-- 🌱 I’m currently learning **react, redux**
+- 🌱 I’m currently learning **Next.js**
 - 📞 phone [09381986445](09381986445)
 - ✉️ email **nghstarcc@gmail.com**
 
